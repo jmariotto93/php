@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt_BR">
 
 <head>
     <meta charset="UTF-8">
@@ -8,10 +8,10 @@
     <title>Caixa Eletrônico</title>
 
     <style>
-    img.nota {
-        height: 50px;
-        margin: 5px;
-    }
+        img.nota {
+            height: 50px;
+            margin: 5px;
+        }
     </style>
 </head>
 
